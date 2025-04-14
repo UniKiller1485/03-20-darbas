@@ -1,27 +1,4 @@
 @import "tailwindcss";
-@plugin "daisyui"{
-themes: dark --default
-};
-
-body{
-    @apply bg-amber-100 text-black text-center;
-};
-
-h1{
-    @apply text-blue-400 font-bold text-3xl;
-};
-
-p{
-   @apply text-blue-600 font-bold text-2xl
-};
-
-.Dropdown{
-    @apply bg-red-400 border border-red-900 m-5 ml-100 mr-100 h-20;
-};
-
-.First{
-    @apply bg-red-500 border border-red-900 m-5 ml-200 mr-200 h-15;
-};
 
 
 
